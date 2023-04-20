@@ -27,4 +27,4 @@ Para usar as APIs disponíveis, você pode enviar solicitações HTTP para as UR
 
 ## Considerações finais
 
-Este barramento de patins foi desenvolvido em .NET Core para ajudar no gerenciamento de patins disponíveis e reservas de patins. As APIs fornecidas são apenas um exemplo de como essa funcionalidade pode ser implementada. Sinta-se à vontade para modificá-las ou estendê-las de acordo com suas necessidades.
+Este barramento de patins foi desenvolvido em .NET Core para ajudar no gerenciamento de patins disponíveis e reservas de patins. As APIs fornecidas são apenas um exemplo de como essa funcionalidade pode ser implementada. Sinta-se à vontade para modificá-las ou estendê-las de acordo com suas necessidades. 
